@@ -1,4 +1,10 @@
-import java.util.Scanner;
+/*Problem 1
+Given the meal price (base cost of a meal),
+tip percent (the percentage of the meal price being added as tip),
+and tax percent (the percentage of the meal price being added as tax) 
+for a meal, find and print the meal's total cost. Round the result to the nearest integer.*/
+
+        import java.util.Scanner;
 
 public class HackerRank{
         public static void main(String [] args){
